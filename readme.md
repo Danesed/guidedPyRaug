@@ -7,9 +7,9 @@ This guide provides instructions for setting up and using **Guided Pyraug**, a t
 ## Installation
 
 1. **Create a Conda Environment**:
-   ```bash
+```bash
    conda create -n guidedPyraug python==3.10.16
-    ```
+```
 2. **Activate the Environment:**
 ```bash
   conda activate guidedPyraug
