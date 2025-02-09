@@ -50,7 +50,7 @@ Use the following script to visualize the latent space:
 Example visualization 
 
 
-![image][./figures/tsne_visualization.png]
+![image](./figures/tsne_visualization.png)
 
 ## Guided Sample Generation
 
